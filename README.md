@@ -27,7 +27,7 @@ Embark on a global data journey with World Bank Group Analysis! 🌐📈 In this
     - Open `World Bank Dashboard.pbix` in Power BI for an interactive experience.
 
 3. **Analyze with SQL:**
-    - Dive into the SQL analysis by checking out `SQL/world_bank_analysis.sql`.
+    - Dive into the SQL analysis by checking out `World Bank Analysis.sql`.
 
 ## 🤝 Contributing
 
