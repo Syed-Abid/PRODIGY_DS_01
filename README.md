@@ -40,7 +40,7 @@ Contributions are encouraged! Whether you want to enhance the analysis or add ne
 
 Questions or suggestions? Reach out to me:
 
-- **Your Name**
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Syed Abid Hassan**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
 
 Explore the world's data, analyze global trends, and uncover the stories within the World Bank Group dataset! 🌍📊
