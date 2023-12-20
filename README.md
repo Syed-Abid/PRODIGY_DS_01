@@ -4,7 +4,7 @@
   <img src="https://github.com/Syed-Abid/PRODIGY_DS_01/blob/main/The-World-Bank-logo.png" alt="World Bank Logo">
 </div>
 
-Embark on a global data journey with PRODIGY_DS_01's World Bank Group Analysis! 🌐📈 In this repository, I've conducted an in-depth analysis on a World Bank Group dataset using SQL and Power BI. Discover insightful trends and patterns presented through a captivating Power BI dashboard.
+Embark on a global data journey with World Bank Group Analysis! 🌐📈 In this repository, I've conducted an in-depth analysis on a World Bank Group dataset using SQL and Power BI. Discover insightful trends and patterns presented through a captivating Power BI dashboard.
 
 ## 🚀 Key Features
 
