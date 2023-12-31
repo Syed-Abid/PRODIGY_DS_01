@@ -14,7 +14,10 @@ Embark on a global data journey with World Bank Group Analysis! 🌐📈 In this
 
 ## 📊 Dashboard Preview
 
-*Insert screenshots or GIFs of your Power BI dashboards here.*
+<div align="center">
+  <img src="" alt="World Population Dashboard">
+</div>
+
 
 ## 🛠️ Setup and Usage
 
