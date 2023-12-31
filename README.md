@@ -27,10 +27,10 @@ Embark on a global data journey with World Bank Group Analysis! 🌐📈 In this
     ```
 
 2. **Explore with Power BI:**
-    - Open `World Bank Dashboard.pbix` in Power BI for an interactive experience.
+    - Open `World Population Dashboard.pbix` in Power BI for an interactive experience.
 
 3. **Analyze with SQL:**
-    - Dive into the SQL analysis by checking out `World Bank Analysis.sql`.
+    - Dive into the SQL analysis by checking out `World Population Analysis.sql`.
 
 ## 🤝 Contributing
 
