@@ -29,7 +29,7 @@ Embark on a global data journey with World Bank Group Analysis! 🌐📈 In this
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Syed-Abid/PRODIGY_DS_01.git
+    git clone https://github.com/Syed-Abid/World-Population-Analysis.git
     ```
 
 2. **Explore with Power BI:**
