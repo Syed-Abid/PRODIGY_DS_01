@@ -25,6 +25,12 @@ Embark on a global data journey with World Bank Group Analysis! 🌐📈 In this
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
 </div>
 
+## 💡 Insights
+- World Population till 2022 is **8 Billion**.
+- Most populated countries by 2020 are **China**, **India**, **USA**, **Indonesia** and **Pakistan**.
+- The population of the most populous countries have been the same form 2021 till 2022.
+- In region wise population **North America** has the lowest population making up **1.38%** of the total world population. 
+
 ## 🛠️ Setup and Usage
 
 1. **Clone the repository:**
