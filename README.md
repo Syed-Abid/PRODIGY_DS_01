@@ -18,7 +18,7 @@ Embark on a global data journey with World Bank Group Analysis! 🌐📈 In this
   <img src="https://github.com/Syed-Abid/PRODIGY_DS_01/blob/main/World%20Population%20Dashboard.png" alt="World Population Dashboard">
 </div>
 
-## Tools Used
+## 🧰 Tools Used
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/power%20bi.png" style="margin-right: 10px;" width="100" />
